@@ -13,10 +13,10 @@ There's currently 2 general approaches to getting the shield down and dealing en
 
 This approach combines the elements of **ally attack** and **counter attack**, but also requires **block debuffs** (cleanser is not sufficient). Most notably, it requires **Cardiel** with no substitutions and is therefore not accessible to many players.
 
-\[More info](ally-attack-counter-attack.html){ .btn }
+[More info](ally-attack-counter-attack.html){ .btn }
 
 ## Double Ally-Attack
 
 Double ally-attack compositions are more straightforward and have a slightly wider viable champion pool. It currently requires **Gnut** (July 23' Fusion), 2 **ally attack** champions, and a **cooldown reset with turn-meter boost**. Similarly to CA+AA, you're currently locked in on using **Kymar** in order to also fit sufficient **enemy max hp** based damage before the boss reclaims his shield.
 
-\[More info](double-ally-attack.html){ .btn }
+[More info](double-ally-attack.html){ .btn }
