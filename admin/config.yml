@@ -12,11 +12,26 @@ collections:
     filter: { field: "has_children", value: true }
     create: true
     fields:
-      - {label: "Has children", name: "has_children", widget: "hidden", default: true}
-      - {label: "Layout", name: "layout", widget: "hidden", default: "minimal"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Nav order", name: "nav_order", widget: "number", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - {
+          label: "Has children",
+          name: "has_children",
+          widget: "hidden",
+          default: true,
+        }
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "default",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Nav order",
+          name: "nav_order",
+          widget: "number",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
 
   - name: pages
     label: Pages
@@ -25,23 +40,56 @@ collections:
     filter: { field: "has_children", value: false }
     create: true
     fields:
-      - {label: "Has children", name: "has_children", widget: "hidden", default: false}
-      - {label: "Parent", name: "parent", widget: "relation", collection: 'folders', search_fields: ['title'], display_fields: ['title'], value_field: 'title', required: false}
-      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Nav order", name: "nav_order", widget: "number", required: false}
-      - {label: "Body", name: "body", widget: "markdown"}
-
+      - {
+          label: "Has children",
+          name: "has_children",
+          widget: "hidden",
+          default: false,
+        }
+      - {
+          label: "Parent",
+          name: "parent",
+          widget: "relation",
+          collection: "folders",
+          search_fields: ["title"],
+          display_fields: ["title"],
+          value_field: "title",
+          required: false,
+        }
+      - {
+          label: "Layout",
+          name: "layout",
+          widget: "hidden",
+          default: "default",
+        }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Nav order",
+          name: "nav_order",
+          widget: "number",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
 
   - name: files
     label: Files
     label_singular: Files
-    files: 
-      - label: 'Home'
-        name: 'home'
-        file: 'index.md'
+    files:
+      - label: "Home"
+        name: "home"
+        file: "index.md"
         fields:
-          - {label: 'Nav order', name: 'nav_order', widget: 'hidden', default: 0}
-          - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
-          - {label: "Title", name: "title", widget: "string", default: "Home"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {
+              label: "Nav order",
+              name: "nav_order",
+              widget: "hidden",
+              default: 0,
+            }
+          - {
+              label: "Layout",
+              name: "layout",
+              widget: "hidden",
+              default: "home",
+            }
+          - { label: "Title", name: "title", widget: "string", default: "Home" }
+          - { label: "Body", name: "body", widget: "markdown" }
