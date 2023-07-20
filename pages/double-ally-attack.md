@@ -22,7 +22,7 @@ title: Double Ally-Attack
 
 # Strategy
 
-The following is the basic strategy of this composition without any modifications.
+The following is the basic strategy of this composition without any modifications. Not all of the champions above can be used in this strategy without some modification listed further below.
 
 ## Ally Attack #1 & #2 - Shield break + Freeze TM Reduction
 
@@ -47,3 +47,21 @@ Both AA champions will now need to use their skills to further reduce the FK tur
 ## DPS phase 2 (final)
 
 Finally, you should plan to kill the FireKnight with your last two DPS turns. Depending on RNG and other modifications, you may get 1-2 more hits from your team before the end.
+
+# Modifications
+
+## Increase hits against shield (For reliability, or low A1 hits like Draco)
+
+In order to get more hits against the shield, it's possible to move a DPS to go before the second AA to score extra hits (and reset PT cooldown). When doing this, you must have your fastest champion at 357.15 or higher. It is at this speed that you will get your turn one *"tick"* sooner.
+
+At the FK10 boss speed of **250**, he gets **17.5%** TM every *tick*. At **357** speed you will gain **24.99%** TM per tick. This means you won't reach 100% TM until tick 5, where it will be at **124.95%**. **However**, at a speed of **357.15** you will have a fill rate of 25.0005% giving you your first turn at ***tick* 4**, so the battle effectively begins with the boss having **17.5% less turn meter** which is equal to just more than one freeze debuff.
+
+By running one champ at this speed, you give yourself enough room to miss one freeze on your first AA phase and *also* if it is a DPS, you get a chance to put a couple extra hits in. For example, this allows you to use Dracomorph as a DPS by running at ~358 speed and opening the boss round with his A2, which gives you a total of 6 hits into the shield from him instead of just 2.
+
+{: .highlight }
+For your convenience, if you are running Cardiel with a 19% speed arua, you need to aim for roughly **338** speed for this effect (depending on base speed, you may be able to go 1 lower)
+
+
+## Phantom Touch Blessing
+
+You should note that the Phantom Touch blessing **has a cooldown of 1 turn**. This means if it procs on that champions turn, it will not proc again with CA or AA skills until that champion takes another turn. This can cause unexpected failures if you are not careful. Note that for guaranteed hit 6* PT blessings, AA and CA skills will not proc once that champion has taken their turn unless they use a skill that does not apply a hit.
