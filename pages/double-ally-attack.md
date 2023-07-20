@@ -20,11 +20,16 @@ title: Double Ally-Attack
 | **Cooldown Reset + TM Boost**  | Kymar                                       |
 | **DPS** (multi-hit required)   | Genzin, Coldheart, Draco, Cruetraxa, Fodbar |
 
+# Stats
+
+The advantage to this composition is the **boss will not hit you**. So build as much damage into your champions as you can. Cardiel in savage? Bloody great idea. Kymar can do **obscene damage** if you build him for it. If you find yourself with enough stats to feel comfortable, flex a little and run without boots. The Fire Knight might just get too distracted by those lovely toes.
+
+**Gnut needs 350+ accuracy**
+
+
 # Strategy
 
 The following is the basic strategy of this composition without any modifications. Not all of the champions above can be used in this strategy without some modification listed further below.
-
-The advantage to this composition is the **boss will not hit you**. So build as much damage into your champions as you can. Cardiel in savage? Bloody great idea. Kymar can do **obscene damage** if you build him for it. If you find yourself with enough stats to feel comfortable, flex a little and run without boots. The Fire Knight might just get too distracted by those lovely toes.
 
 ## Ally Attack #1 & #2 - Shield break + Freeze TM Reduction
 
