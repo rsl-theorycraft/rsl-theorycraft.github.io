@@ -6,8 +6,5 @@ color_scheme: dark
 url: https://rsl-theorycraft.github.io/
 logo: "/images/site-logo.png"
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
 plugins:
   - jekyll-spaceship
