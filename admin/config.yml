@@ -38,7 +38,7 @@ collections:
     label_singular: Files
     files: 
       - label: 'Home'
-        name: 'home',
+        name: 'home'
         file: 'index.md'
         fields:
           - {label: 'Nav order', name: 'nav_order', widget: 'hidden', default: 0}
