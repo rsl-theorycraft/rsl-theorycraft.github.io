@@ -46,6 +46,8 @@ Riho. She's the ultimate end to your would-be fastest wave clear ever. She sluff
 
 There's a few ways to deal with her:
 
+Riho will target your champion with the lowest hp. You can HP tune who she targets and make it someone who has a combination of high def and/or hp.
+
 If you can spare it (especially in Double-AA teams), you can use Cardiel's A2 as an insurance measure. Have him open A1 and prioritize A2 after that. With luck, if Riho nukes someone, they'll get a revive and it won't be the end of your run.
 
 Burn her debuff passive. If you can land a non-critical debuff on her first, and then follow up with your defense down/weaken debuffs, she'll go down a lot easier.
