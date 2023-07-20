@@ -4,6 +4,15 @@ parent: Fire Knight Guide
 layout: default
 title: Ally Attack + Counter Attack
 ---
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 | **Role**                                    | **Options**                             |
 |:--------------------------------------------|:----------------------------------------|
 | **Ally Attack + Block Debuffs**             | Cardiel                                 |
