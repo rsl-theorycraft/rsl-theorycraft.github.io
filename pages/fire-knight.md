@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Fire Knight
+title: Fire Knight Guide
 date: 2023-07-20T03:26:30.294Z
 grand_parent: "{{parent.parent}}"
 has_children: true
+nav_order: 1
 ---
-P﻿laceholder
+Fire Knight 10 guide
