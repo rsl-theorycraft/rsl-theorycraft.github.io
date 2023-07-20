@@ -8,6 +8,7 @@ collections:
   - name: folders
     label: Folders
     label_singular: Folder
+    folder: pages
     filter: { field: "has_children", value: true }
     create: true
     fields:
@@ -24,7 +25,7 @@ collections:
     create: true
     fields:
       - {label: "Has children", name: "has_children", widget: "hidden", default: false}
-      - {label: "Parent", name: "parent", widget: "relation", search_fields: ['title'], display_fields: ['title'], value_field: 'title', default: "Fire Knight", required: false}
+      - {label: "Parent", name: "parent", widget: "relation", collection: 'Folders', search_fields: ['title'], display_fields: ['title'], value_field: 'title', default: "Fire Knight", required: false}
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
