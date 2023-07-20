@@ -24,6 +24,8 @@ title: Double Ally-Attack
 
 The following is the basic strategy of this composition without any modifications. Not all of the champions above can be used in this strategy without some modification listed further below.
 
+The advantage to this composition is the **boss will not hit you**. So build as much damage into your champions as you can. Cardiel in savage? Bloody great idea. Kymar can do **obscene damage** if you build him for it. If you find yourself with enough stats to feel comfortable, flex a little and run without boots. The Fire Knight might just get too distracted by those lovely toes.
+
 ## Ally Attack #1 & #2 - Shield break + Freeze TM Reduction
 
 The goal of this composition is to take the shield down AND place 3* freeze debuffs by the time your 2nd ally-attack finishes. This means if you have Gnut last in your team order, you need **23 total hits** including his which land after the shield is down (a freeze can be landed on the last hit of the shield that takes it down).  If you do it right, the FK turn meter will be at either **60%** or **77.5%** after your second AA:
@@ -65,3 +67,7 @@ For your convenience, if you are running Cardiel with a 19% speed arua, you need
 ## Phantom Touch Blessing
 
 You should note that the Phantom Touch blessing **has a cooldown of 1 turn**. This means if it procs on that champions turn, it will not proc again with CA or AA skills until that champion takes another turn. This can cause unexpected failures if you are not careful. Note that for guaranteed hit 6* PT blessings, AA and CA skills will not proc once that champion has taken their turn unless they use a skill that does not apply a hit.
+
+# Tips
+
+Defense down on the boss after the first AA phase is **huge**. It can be the difference between a non-max-HP damage champion doing enough damage to kill the boss or not. As long as your DPS champ with def down has a turn after Kymar resets, you don't need to worry about setup from the waves- they can use it immediately after Kymar reset and vastly improve damage for the final damage phase.
