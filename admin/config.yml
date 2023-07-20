@@ -43,4 +43,5 @@ collections:
         fields:
           - {label: 'Nav order', name: 'nav_order', widget: 'hidden', default: 0}
           - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
-          - {label: "Title", name: "title", widget: "hidden", default: "Home"}
+          - {label: "Title", name: "title", widget: "string", default: "Home"}
+          - {label: "Body", name: "body", widget: "markdown"}
