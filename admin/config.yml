@@ -1,19 +1,56 @@
 backend:
   name: git-gateway
-  branch: main # Branch to update (optional; defaults to master)
+  branch: main
 
-media_folder: "images/uploads" # Media files will be stored in the repo under images/uploads
+media_folder: images/uploads
 
 collections:
-  - name: "pages"
-    label: "Pages"
-    folder: "pages"
+  - name: pages
+    label: Pages
+    folder: pages
     create: true
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Parent", name: "parent", widget: "relation", collection: "pages", value_field: "title", required: false}
-      - {label: "Grand Parent", name: "grand_parent", widget: "relation", collection: "pages", value_field: "title", default: "{{parent.parent}}", required: false}
-      - {label: "Has Children", name: "has_children", widget: "boolean", default: false}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - label: Layout
+        name: layout
+        widget: hidden
+        default: default
+
+      - label: Title
+        name: title
+        widget: string
+
+      - label: Publish Date
+        name: date
+        widget: datetime
+
+      - label: Parent
+        name: parent
+        widget: relation
+        collection: pages
+        search_fields:
+          - title
+        display_fields:
+          - title
+        value_field: title
+        required: false
+
+      - label: Grand Parent
+        name: grand_parent
+        widget: relation
+        collection: pages
+        search_fields:
+          - title
+        display_fields:
+          - title
+        value_field: title
+        default: '{{parent.parent}}'
+        required: false
+
+      - label: Has Children
+        name: has_children
+        widget: boolean
+        default: false
+        
+      - label: Body
+        name: body
+        widget: markdown
