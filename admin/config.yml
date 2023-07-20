@@ -5,52 +5,27 @@ backend:
 media_folder: images/uploads
 
 collections:
-  - name: pages
-    label: Pages
-    folder: pages
+  - name: folders
+    label: Folders
+    label_singular: Folder
+    filter: { field: "has_children", value: true }
     create: true
     fields:
-      - label: Layout
-        name: layout
-        widget: hidden
-        default: default
+      - {label: "Has children", name: "has_children", widget: "hidden", default: true}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "minimal"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
 
-      - label: Title
-        name: title
-        widget: string
+  - name: pages
+    label: Pages
+    label_singular: Page
+    folder: pages
+    filter: { field: "has_children", value: false }
+    create: true
+    fields:
+      - {label: "Has children", name: "has_children", widget: "hidden", default: false}
+      - {label: "Parent", name: "parent", widget: "relation", search_fields: ['title'], display_fields: ['title'], value_field: 'title', default: "Fire Knight", required: false}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
 
-      - label: Publish Date
-        name: date
-        widget: datetime
-
-      - label: Parent
-        name: parent
-        widget: relation
-        collection: pages
-        search_fields:
-          - title
-        display_fields:
-          - title
-        value_field: title
-        required: false
-
-      - label: Grand Parent
-        name: grand_parent
-        widget: relation
-        collection: pages
-        search_fields:
-          - title
-        display_fields:
-          - title
-        value_field: title
-        default: '{{parent.parent}}'
-        required: false
-
-      - label: Has Children
-        name: has_children
-        widget: boolean
-        default: false
-        
-      - label: Body
-        name: body
-        widget: markdown
