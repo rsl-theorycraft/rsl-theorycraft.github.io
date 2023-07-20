@@ -3,7 +3,8 @@ description: "Tomb of Nazarick's Theory Crafters for Raid: Shadow Legends"
 theme: just-the-docs
 color_scheme: dark
 
-url: https://just-the-docs.github.io
+url: https://rsl-theorycraft.github.io/
+logo: "/images/site-logo.png"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
