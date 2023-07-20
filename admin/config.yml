@@ -32,3 +32,15 @@ collections:
       - {label: "Nav order", name: "nav_order", widget: "number", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
+
+  - name: files
+    label: Files
+    label_singular: Files
+    files: 
+      - label: 'Home'
+        name: 'home',
+        file: 'index.md'
+        fields:
+          - {label: 'Nav order', name: 'nav_order', widget: 'hidden', default: 0}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "home"}
+          - {label: "Title", name: "title", widget: "hidden", default: "Home"}
