@@ -7,5 +7,5 @@ gem "just-the-docs", "0.5.3" # pinned to the current release
 # gem "just-the-docs"        # always download the latest release
 
 group :jekyll_plugins do
-    gem "jekyll-youtube"
+    gem 'jekyll-spaceship'
   end
