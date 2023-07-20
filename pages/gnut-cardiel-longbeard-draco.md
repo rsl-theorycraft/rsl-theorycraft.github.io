@@ -4,6 +4,6 @@ parent: Fire Knight Teams
 layout: default
 title: Gnut | Cardiel | Longbeard | Draco
 ---
-**A﻿uthor:** Sent
+**Author:** Sent
 
-!﻿[](/videos/Sent_Cardi_LB_Comp.mp4?width=400)
+![](/videos/Sent_Cardi_LB_Comp.mp4?width=400)
