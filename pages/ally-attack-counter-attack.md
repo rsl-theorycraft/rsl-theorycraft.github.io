@@ -7,15 +7,9 @@ title: Ally Attack + Counter Attack
 | **Role**                                    | **Options**                             |
 | ------------------------------------------- | --------------------------------------- |
 | **Ally Attack + Block Debuffs**             | Cardiel                                 |
-| **Counter Attack + Shield**                 | Valkyrie\
-Martyr                        |
-| **Dec. Speed OR Cooldown Reset + TM Boost** | Kymar\
-Stag Knight\
-Tomb Lord           |
-| **DPS**                                     | Coldheart\
-Acrizia\
-Mithrala\
-Cruetraxa |
+| **Counter Attack + Shield**                 | Valkyrie, Martyr                        |
+| **Dec. Speed OR Cooldown Reset + TM Boost** | Kymar, Stag Knight, Tomb Lord           |
+| **DPS**                                     | Coldheart, Acrizia, Mithrala Cruetraxa  |
 
 
 
