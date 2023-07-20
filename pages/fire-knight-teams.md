@@ -1,6 +1,6 @@
 ---
 has_children: true
-layout: minimal
+layout: default
 title: Fire Knight Teams
 nav_order: 2
 ---
