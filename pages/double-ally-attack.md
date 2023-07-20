@@ -4,6 +4,15 @@ parent: Fire Knight Guide
 layout: default
 title: Double Ally-Attack
 ---
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
 | **Role**                       | **Options**                                 |
 | ------------------------------ | ------------------------------------------- |
 | **Ally Attack**                | Cardiel, Longbeard                          |
