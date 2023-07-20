@@ -6,14 +6,14 @@ media_folder: "images/uploads" # Media files will be stored in the repo under im
 
 collections:
   - name: "pages"
-    label: "Page"
+    label: "Pages"
     folder: "pages"
     create: true
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
-      - {label: "Parent", name: "parent", widget: "string", default: "Fire Knight"}
-      - {label: "Grand Parent", name: "grand_parent", widget: "string", default: ""}
+      - {label: "Parent", name: "parent", widget: "relation", collection: "pages", value_field: "title", required: false}
+      - {label: "Grand Parent", name: "grand_parent", widget: "relation", collection: "pages", value_field: "title", default: "{{parent.parent}}", required: false}
+      - {label: "Has Children", name: "has_children", widget: "boolean", default: false}
       - {label: "Body", name: "body", widget: "markdown"}
