@@ -2,7 +2,7 @@
 has_children: false
 parent: Fire Knight Teams
 layout: default
-title: Double AA | Tomb Lord
+title: Double-AA | Tomb Lord
 ---
 | Author | Link |
 |:-------|:-----|

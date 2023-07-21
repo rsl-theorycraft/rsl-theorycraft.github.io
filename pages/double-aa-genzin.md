@@ -2,7 +2,7 @@
 has_children: false
 parent: Fire Knight Teams
 layout: default
-title: Gnut | 2x Cardiel | Genzin | Kymar
+title: Double-AA | Genzin
 ---
 | Author | Link    |
 |:-------|---------|
