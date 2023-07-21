@@ -9,6 +9,6 @@ The Hell Hades Artifact Optimizer is extremely useful - especially the Team Opti
 
 Also, if you're looking for teams that you have the champions for, make sure to check out the "Find a Team" feature to see what others are using.
 
-[Hell Hades Artifact Optimizer](https://raidoptimiser.hellhades.com/){: .btn .btn-red target="_blank"}
+[Hell Hades Artifact Optimizer](https://raidoptimiser.hellhades.com/){: .btn .btn-blue target="_blank"}
 
 ![](/images/uploads/hhoptimizer.png)
