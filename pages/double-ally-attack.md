@@ -63,7 +63,7 @@ In order to get more hits against the shield, it's possible to move a DPS to go 
 
 At the FK10 boss speed of **250**, he gets **17.5%** TM every *tick*. At **357** speed you will gain **24.99%** TM per tick. This means you won't reach 100% TM until tick 5, where it will be at **124.95%**. **However**, at a speed of **357.15** you will have a fill rate of 25.0005% giving you your first turn at ***tick* 4**, so the battle effectively begins with the boss having **17.5% less turn meter** which is equal to just more than one freeze debuff.
 
-By running one champ at this speed, you give yourself enough room to miss one freeze on your first AA phase and *also* if it is a DPS, you get a chance to put a couple extra hits in. For example, this allows you to use Dracomorph as a DPS by running at ~358 speed and opening the boss round with his A2, which gives you a total of 6 hits into the shield from him instead of just 2.
+By running one champ at this speed, you give yourself enough room to miss one freeze on your first AA phase and *also* if it is a DPS, you get a chance to put a couple extra hits in. For example, [this allows you to use Dracomorph](gnut-cardiel-longbeard-draco.html) as a DPS by running at ~358 speed and opening the boss round with his A2, which gives you a total of 6 hits into the shield from him instead of just 2.
 
 {: .highlight }
 For your convenience, if you are running Cardiel with a 19% speed arua, you need to aim for roughly **338** speed for this effect (depending on base speed, you may be able to go 1 lower)
