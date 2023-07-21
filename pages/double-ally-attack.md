@@ -68,6 +68,11 @@ By running one champ at this speed, you give yourself enough room to miss one fr
 {: .highlight }
 For your convenience, if you are running Cardiel with a 19% speed arua, you need to aim for roughly **338** speed for this effect (depending on base speed, you may be able to go 1 lower)
 
+## Longbeard Variant
+
+You can substitute one Cardiel for Longbeard for faster animations and an attack bonus. In order to use Longbeard you need to have a high Phantom Touch blessing on Longbeard to make it consistent enough to down the shield.
+
+Also, you will need to be careful tuning the waves. If you down the waves too fast, his A3 may not be back from cooldown by the time you get to the boss.
 
 ## Phantom Touch Blessing
 
