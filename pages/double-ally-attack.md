@@ -15,10 +15,10 @@ title: Double Ally-Attack
 
 | **Role**                       | **Options**                                 |
 | ------------------------------ | ------------------------------------------- |
-| **Ally Attack**                | Cardiel, Longbeard                          |
-| **Freeze** (3 hit 100% freeze) | Gnut                                        |
-| **Cooldown Reset + TM Boost**  | Kymar                                       |
-| **DPS** (multi-hit required)   | Genzin, Coldheart, Draco, Cruetraxa, Fodbar |
+| **Ally Attack**                | [Cardiel](https://hellhades.com/champions/cardiel/), [Longbeard](https://hellhades.com/champions/longbeard/), [Lonatharil](https://hellhades.com/champions/lonatharil/)              |
+| **Freeze** (3 hit 100% freeze) | [Gnut](https://hellhades.com/champions/gnut/)                                        |
+| **Cooldown Reset + TM Boost**  | [Kymar](https://hellhades.com/champions/prince-kymar/)                                       |
+| **DPS** (multi-hit required)   | [Genzin](https://hellhades.com/champions/genzin/), [Coldheart](https://hellhades.com/champions/coldheart/), [Dracomorph](https://hellhades.com/champions/dracomorph/), [Cruetraxa](https://hellhades.com/champions/cruetraxa/), [Fodbar](https://hellhades.com/champions/fodbor-the-bard/) |
 
 # Stats
 

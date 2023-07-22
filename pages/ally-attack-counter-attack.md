@@ -15,10 +15,10 @@ title: Ally Attack + Counter Attack
 
 | **Role**                                    | **Options**                             |
 |:--------------------------------------------|:----------------------------------------|
-| **Ally Attack + Block Debuffs**             | Cardiel                                 |
-| **Counter Attack + Shield**                 | Valkyrie, Martyr                        |
-| **Dec. Speed OR Cooldown Reset + TM Boost** | Kymar, Stag Knight, Tomb Lord           |
-| **DPS**                                     | Coldheart, Acrizia, Mithrala Cruetraxa  |
+| **Ally Attack + Block Debuffs**             | [Cardiel](https://hellhades.com/champions/cardiel/)                                 |
+| **Counter Attack + Shield**                 | [Valkyrie](https://hellhades.com/champions/valkyrie/), Martyr                        |
+| **Dec. Speed OR Cooldown Reset + TM Boost** | [Kymar](https://hellhades.com/champions/prince-kymar/), [Stag Knight](https://hellhades.com/champions/stag-knight/), [Tomb Lord](https://hellhades.com/champions/tomb-lord/)           |
+| **DPS**                                     | [Coldheart](https://hellhades.com/champions/coldheart/), [Acrizia](https://hellhades.com/champions/acrizia/), [Mithrala](https://hellhades.com/champions/mithrala-lifebane/), [Cruetraxa](https://hellhades.com/champions/cruetraxa/)  |
 
 
 
