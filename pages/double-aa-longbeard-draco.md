@@ -2,7 +2,7 @@
 has_children: false
 parent: Fire Knight Teams
 layout: default
-title: Double-AA | Longbeard | Draco
+title: Double-AA | Longbeard | Genzin
 ---
 
 | Author       | Link              |
