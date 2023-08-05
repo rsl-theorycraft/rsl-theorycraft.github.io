@@ -2,7 +2,7 @@
 has_children: false
 parent: Fire Knight Teams
 layout: default
-title: Single Ally Attack Attack | Coldheart
+title: Single-AA | Coldheart Draco
 ---
 
 | Author | Link    |
