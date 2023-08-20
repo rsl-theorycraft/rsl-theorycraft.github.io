@@ -17,7 +17,7 @@ title: 3x Extender Infinity Team
 | ------------------------------ | ------------------------------------------- |
 | **A dead corpse**                | [Corpulent Cadaver](https://hellhades.com/champions/corpulent-cadaver/) (no substitutions)  |
 | **Broggers** | [Underpriest Brogni](https://hellhades.com/champions/underpriest-brogni/) (the one and only) |
-| **Buff Extender** (x3) | **[Lanakis](https://hellhades.com/champions/lanakis/)** (preferred), [Krisk](https://hellhades.com/champions/krisk-the-ageless/), [Godseeker Aniri](https://hellhades.com/champions/godseeker-aniri/), [Taras](https://hellhades.com/champions/taras-the-fierce/), [Demytha](https://hellhades.com/champions/demytha/), [Duedan](https://hellhades.com/champions/duedan-the-runic/) |
+| **Buff Extender** (x3) | **[Krisk](https://hellhades.com/champions/krisk-the-ageless/)** (preferred), **[Demytha](https://hellhades.com/champions/demytha/)** (preferred), [Godseeker Aniri](https://hellhades.com/champions/godseeker-aniri/), [Lanakis](https://hellhades.com/champions/lanakis/), [Taras](https://hellhades.com/champions/taras-the-fierce/), [Duedan](https://hellhades.com/champions/duedan-the-runic/) |
 | **Utility** (AoE Def Down, Hex) | [Lydia](https://hellhades.com/champions/lydia-the-deathsiren/), [Uugo](https://hellhades.com/champions/Uugo/), [Michinaki](https://hellhades.com/champions/michinaki/)
 
 ## Considerations
