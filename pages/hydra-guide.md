@@ -10,7 +10,7 @@ Here you'll find a list of teams that can be used to maximize Hydra damage, name
 
 # RTFM!
 
-Read this entire page before you decide to build an infinity team. There are a lot of moving parts and you need to understand how they all work together before you can build a team that will work. Once you know what kind of team you want to build, then make sure to fully read the guide for that specific team as well.
+Read this entire guide (including [Gearing](./hydra-gearing.html)) before you decide to build an infinity team. There are a lot of moving parts and you need to understand how they all work together before you can build a team that will work. Once you know what kind of team you want to build, then make sure to fully read the guide for that specific team as well.
 
 # How Infinity Teams Work
 
