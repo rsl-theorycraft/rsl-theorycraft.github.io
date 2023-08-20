@@ -77,7 +77,8 @@ In order to maximize your damage, you'll want to have someone bringing Def Down 
 | Extenders | 305-335 | If you have any 4cd extenders, make sure they have extra speed |
 | Utility | 250-300 | Focus on req stats before speed |
 
-## AI setup
+## Skill setup
+
 | Role | Setup |
 |:-----|:------|
 | Cadaver | A1 only |
